@@ -51,8 +51,20 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
-      "id": 11
+      "quote": "It's getting late early",
+      "author": "Yogi Berra",
+      "likes": [
+        {}
+      ],
+      "id": 12
+    },
+    {
+      "quote": "That's what she said!",
+      "author": "Michael Scott",
+      "likes": [
+        {}
+      ],
+      "id": 13
     }
   ],
   "likes": [
